@@ -1,9 +1,9 @@
 var images =[
-'/assets/images/bgs/5.jpg',
-'/assets/images/bgs/3.jpg',
-'/assets/images/bgs/2.jpg',
-'/assets/images/bgs/1.jpg',
-'/assets/images/bgs/4.jpg'
+'/assets/bgs/5.jpg',
+'/assets/bgs/3.jpg',
+'/assets/bgs/2.jpg',
+'/assets/bgs/1.jpg',
+'/assets/bgs/4.jpg'
 ]
 
 var tracks = [
