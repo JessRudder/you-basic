@@ -13,9 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap
-//= require fastclick.js
-//= require global
-//= require main
 //= require modernizr
+//= require global
 //= require script_tmt_validator
+//= require fastclick.js
+//= require main
 //= require_tree .
