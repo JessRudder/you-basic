@@ -10,12 +10,12 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery_ujs
-//= require bootstrap
-//= require modernizr
-//= require global
-//= require script_tmt_validator
-//= require fastclick.js
-//= require main
-//= require_tree .
+// require jquery
+// require jquery_ujs
+// require bootstrap
+// require modernizr
+// require global
+// require script_tmt_validator
+// require fastclick.js
+// require main
+// require_tree .
