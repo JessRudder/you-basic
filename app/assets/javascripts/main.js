@@ -8,12 +8,12 @@ var images =[
 
 var tracks = [
   {
-    title : "Pack Of Wolves",
-    scID : "159630745"
+    title : "Tighttraxx - You Basic (Original Mix)",
+    scID : "148401526"
   },
   {
-  title : "U Make Me Feel Good",
-  scID : "158627844"
+    title : "All About That Bass (2014)",
+    scID : "107849140"
   },
   {
     title : "Nothin On My Mind",
