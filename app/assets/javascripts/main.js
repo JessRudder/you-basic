@@ -8,20 +8,20 @@ var images =[
 
 var tracks = [
   {
-    title : "Tighttraxx - You Basic (Original Mix)",
+    title : "You Basic (Original Mix)",
     scID : "148401526"
   },
   {
     title : "All About That Bass (2014)",
-    scID : "107849140"
+    scID : "162022719"
   },
   {
-    title : "Nothin On My Mind",
-    scID : "156968401"
+    title : "Shake It Off (Neon NiteClub Remix)",
+    scID : "165231752"
   },
   {
-    title : "There For U (demo)",
-    scID : "160619490"
+    title : "Fancy Remix",
+    scID : "165233670"
   }
 ]
 
@@ -158,7 +158,7 @@ function sizing(){
 
 function initSC(){
   SC.initialize({
-      client_id: "cef9224262e60e2c07053248f133feed"
+      client_id: "b89e7c6cd9b038a9a19f8f412168fbb1"
   });
   $('.launchBtn').css({'display':'inline-block'});
   SC.stream("/tracks/" + tracks[0].scID,{
