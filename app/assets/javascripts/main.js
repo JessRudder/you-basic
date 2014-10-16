@@ -101,7 +101,7 @@ $(document).ready(function(){
 
   setInterval(function(){
     changeImage();
-  }, 10000)
+  }, 15000)
 
   $(window).resize(sizing());
 
