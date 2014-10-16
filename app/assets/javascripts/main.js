@@ -3,7 +3,10 @@ var images =[
 '/assets/bgs/3.jpg',
 '/assets/bgs/2.jpg',
 '/assets/bgs/1.jpg',
-'/assets/bgs/4.jpg'
+'/assets/bgs/4.jpg',
+'/assets/bgs/6.jpg',
+'/assets/bgs/7.png'
+
 ]
 
 var tracks = [
