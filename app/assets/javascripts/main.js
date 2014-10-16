@@ -80,31 +80,6 @@ $(document).ready(function(){
     
   })
 
-  $('.portal').on('click', function(e){
-    e.preventDefault();
-    if (touch){
-      $('.modal.comp').css({'display' : 'table'});
-    } else {
-      $('.modal.comp').show();
-    }
-    $('.expandMenu').fadeOut();
-  });
-
-
-  $('.win').on('click', function(e){
-    e.preventDefault();
-    if (touch){
-      $('.modal.info').css({'display' : 'table'});
-    } else {
-      $('.modal.info').show();
-    }
-    $('.expandMenu').fadeOut();
-  });
-
-  $('.closeModalBtn, .modal .btn').on('click', function(){
-    $('.modal').css({'display' : 'none'});
-  });
-
   $('.launch-button').on('click', function(){
     $('.pauseBtn').click();
     $('.cover').slideUp({},1500);
