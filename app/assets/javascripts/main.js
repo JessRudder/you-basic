@@ -1,12 +1,11 @@
 var images =[
-'/assets/bgs/5.jpg',
-'/assets/bgs/3.jpg',
-'/assets/bgs/2.jpg',
-'/assets/bgs/1.jpg',
-'/assets/bgs/4.jpg',
-'/assets/bgs/6.jpg',
-'/assets/bgs/7.png'
-
+'/assets/bgs/2.jpg',  //gonzo
+'/assets/bgs/4.jpg',  //hope
+'/assets/bgs/5.jpg',  //zach
+'/assets/bgs/8.png',  //vanessa
+'/assets/bgs/3.jpg',  //morgan
+'/assets/bgs/1.jpg',  //trio
+'/assets/bgs/6.jpg'  //fisladies
 ]
 
 var tracks = [
@@ -102,7 +101,7 @@ $(document).ready(function(){
 
   setInterval(function(){
     changeImage();
-  }, 15000)
+  }, 10000)
 
   $(window).resize(sizing());
 
